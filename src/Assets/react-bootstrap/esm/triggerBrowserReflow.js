@@ -2,5 +2,5 @@
 // which will let our animations work
 export default function triggerBrowserReflow(node) {
   // eslint-disable-next-line @typescript-eslint/no-unused-expressions
-  return node.offsetHeight;
+  return node;
 }

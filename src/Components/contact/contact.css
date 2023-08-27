@@ -62,12 +62,16 @@
     border: 2px solid var(--myPrimary) !important;
     padding: 10px 20px !important;
     font-size: 18px !important;
-    transition: 0.4s linear !important;
+    transition: .3s linear !important;
+}
+
+.submit_btn:hover{
+    border-radius: 20px !important;
 }
 
 .submit_btn:hover > .icon{
     transform: translate(110%, -110%) scale(1.5);
-    transition: 0.4s linear !important;
+    transition: .3s linear !important;
 }  
 
 .submit_btn:focus{

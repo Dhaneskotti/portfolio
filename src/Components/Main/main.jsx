@@ -49,7 +49,7 @@ function Main() {
                     Technical <span style={bold}>Problem-solving</span>, and{" "}
                     <span style={bold}>adapting to new challenges</span>
                   </p>
-                  <Button href="contact" variant="primary" className="contact_btn">
+                  <Button href="#contact" variant="primary" className="contact_btn">
                     <span className="text">Contact Me</span>
                     <FontAwesomeIcon
                       icon={faPaperPlane}
