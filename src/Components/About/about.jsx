@@ -25,7 +25,7 @@ function about() {
         <div className="container about">
           <header>
             <div className="title">
-              <h1> About Me</h1>
+              <h1> About Mee</h1>
               <h4 className="sub-title"> My Introduction</h4>
             </div>
           </header>
